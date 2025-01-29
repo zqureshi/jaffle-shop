@@ -1,3 +1,4 @@
+-- Comment for EPD onboarding repositories course
 with
 
 source as (
