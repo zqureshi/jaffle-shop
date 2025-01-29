@@ -1,4 +1,6 @@
 -- Comment for EPD onboarding repositories course
+-- Adding this comment to create a merge conflict
+-- in the dbt cloud IDE
 with
 
 source as (
