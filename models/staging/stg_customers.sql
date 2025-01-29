@@ -1,4 +1,5 @@
 -- Comment for EPD onboarding repositories course
+-- This should create a merge conflict
 with
 
 source as (
