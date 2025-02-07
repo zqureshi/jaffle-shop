@@ -21,4 +21,4 @@ renamed as (
 
 )
 
-select * from renamed
+select * from renamed WHERE 1=1
